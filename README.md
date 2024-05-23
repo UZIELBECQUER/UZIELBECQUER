@@ -2,7 +2,7 @@
 
 meu nome é UZIEL BECQUER
 
-- estou estudando no Alura
+- estou estudando no [Alura](https://www.alura.com.br)
 - estou me desenvolvendo na liguagem javaScript
 - utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
